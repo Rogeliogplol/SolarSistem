@@ -1,0 +1,1 @@
+/home/roger/SG/SolarSistem/CMakeFiles/sistem.dir
